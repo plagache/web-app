@@ -19,8 +19,7 @@ body,html {
 }
 header {
     background: #AEC6CF;
-    background-size: auto;
-	background-size: 75% 50%;
+	background-size: 100% 100%;
 	background-image:url("MR_Robot_logo.png");
     padding: 20px 30px;
     max-width: 940px;
@@ -89,10 +88,10 @@ footer p {
 address {
     padding: 10px 20px 30px 10px;
 }
-aside > div {
+#aside > div {
 	margin: 10px auto;
-	background: #AEC6CF;
-	min-height: 100px;
+	background: #FFFF;
+	min-height: 90px;
 }
 #logo {
     display: inline-block;
